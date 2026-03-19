@@ -1,0 +1,106 @@
+{
+  "musicas": {
+    "pop": [
+      "Umbrella - Rihanna",
+      "Bad Romance - Lady Gaga",
+      "Shape of You - Ed Sheeran",
+      "Perfect - Ed Sheeran",
+      "Diamonds - Rihanna"
+    ],
+    "rock": [
+      "Bohemian Rhapsody - Queen",
+      "Smells Like Teen Spirit - Nirvana",
+      "Sweet Child O' Mine - Guns N' Roses",
+      "Hey Jude - The Beatles"
+    ],
+    "rap": [
+      "Lose Yourself - Eminem",
+      "Sicko Mode - Travis Scott",
+      "HUMBLE. - Kendrick Lamar",
+      "God's Plan - Drake",
+      "Old Town Road - Lil Nas X"
+    ],
+    "eletronica": [
+      "Firestone - Kygo ft. Conrad Sewell",
+      "Lean On - Major Lazer & DJ Snake ft. MØ",
+      "Wake Me Up - Avicii",
+      "Titanium - David Guetta ft. Sia",
+      "Don't You Worry Child - Swedish House Mafia"
+    ]
+  },
+
+  "filmes": {
+    "acao": [
+      "John Wick",
+      "Mad Max Fury Road",
+      "Gladiador",
+      "Os Vingadores"
+    ],
+    "ficcao": [
+      "Matrix",
+      "Inception",
+      "Star Wars",
+      "Jurassic Park"
+    ],
+    "drama": [
+      "Forrest Gump",
+      "Titanic",
+      "O Poderoso Chefão"
+    ],
+    "animacao": [
+      "Wall-E",
+      "Frozen",
+      "Toy Story",
+      "Procurando Nemo"
+    ]
+  },
+
+  "series": {
+    "comedia": [
+      "The Office",
+      "Friends",
+      "The Big Bang Theory"
+    ],
+    "drama": [
+      "Breaking Bad",
+      "The Crown",
+      "Titanic"
+    ],
+    "fantasia": [
+      "Game of Thrones",
+      "The Witcher",
+      "Stranger Things"
+    ],
+    "suspense": [
+      "Black Mirror",
+      "The Boys",
+      "Mindhunter"
+    ]
+  },
+
+  "animes": {
+    "acao": [
+      "Attack on Titan",
+      "Jujutsu Kaisen",
+      "Demon Slayer",
+      "Naruto"
+    ],
+    "aventura": [
+      "One Piece",
+      "Hunter x Hunter",
+      "Black Clover"
+    ],
+    "psicologico": [
+      "Death Note",
+      "The Promised Neverland",
+      "Neon Genesis Evangelion",
+      "Parasyte"
+    ],
+    "fantasia": [
+      "Re:Zero",
+      "Sword Art Online",
+      "Magi",
+      "Made in Abyss"
+    ]
+  }
+}
